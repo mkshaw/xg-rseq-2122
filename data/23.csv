@@ -1,0 +1,76 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,21,33,12,41.89,4.08,Hunter Nicole,Carleton Ravens,Shots on goal,1
+2,119,131,12,51.61,3.89,Fillion Alice,University of Ottawa Gee-Gees,Shots on goal,1
+3,234,246,12,52.8,18.7,Scurfield Annika,Carleton Ravens,Shots on goal,1
+4,267,279,12,52.07,16.61,Serniuk Hayden,Carleton Ravens,Shots on goal,1
+5,276,288,12,40.98,20.03,MacNeil Nicole,Carleton Ravens,Shots on goal,1
+6,382,394,12,47.12,15.38,Fillion Alice,University of Ottawa Gee-Gees,Shots on goal,1
+7,391,403,12,46.75,3.13,Minville Ariane,University of Ottawa Gee-Gees,Shots on goal,1
+8,590,602,12,55.55,11.29,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,1
+9,730,742,12,50.69,15.19,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,1
+10,772,784,12,53.9,9.97,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,1
+11,804,816,12,45.74,22.3,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,1
+12,862,874,12,56.47,11.48,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,1
+13,863,875,12,56.3,12.49,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,1
+14,868,880,12,48.58,12.43,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,1
+15,903,915,12,51.7,14.9,Clavelle Alexe,University of Ottawa Gee-Gees,Shots on goal,1
+16,911,923,12,55.92,11.01,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,1
+17,1034,1046,12,56.01,10.44,Scott Taylor,University of Ottawa Gee-Gees,Shots on goal,1
+18,1197,1209,12,53.63,14.81,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,1
+19,1250,1262,12,56.56,14.71,Gagnon Arianne,University of Ottawa Gee-Gees,Shots on goal,1
+20,1251,1263,12,56.01,11.77,Birkby Katherine,University of Ottawa Gee-Gees,Shots on goal,1
+21,1309,1321,12,44.55,24.11,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,1
+22,1414,1426,12,40.15,10.25,MacNeil Nicole,Carleton Ravens,Shots on goal,1
+23,1451,1463,12,54.36,9.78,Chouchani Stephanie,Carleton Ravens,Shots on goal,1
+24,1537,1549,12,43.45,2.47,Andrews Samantha,Carleton Ravens,Shots on goal,1
+25,1580,1592,12,51.52,9.02,Fillion Alice,University of Ottawa Gee-Gees,Goals,1
+26,1580,1592,12,51.52,9.02,Fillion Alice,University of Ottawa Gee-Gees,Shots on goal,1
+27,1686,1698,12,54.54,9.68,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+28,1813,1825,12,42.08,17.84,Chouchani Stephanie,Carleton Ravens,Shots on goal,2
+29,1900,1912,12,41.53,4.18,Andrews Samantha,Carleton Ravens,Shots on goal,2
+30,2109,2121,12,51.88,18.13,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,2
+31,2149,2161,12,52.16,12.72,MacLean Kate,University of Ottawa Gee-Gees,Shots on goal,2
+32,2223,2235,12,47.58,21.16,Serniuk Hayden,Carleton Ravens,Shots on goal,2
+33,2283,2295,12,49.5,19.27,Fleming Anita,Carleton Ravens,Shots on goal,2
+34,2436,2448,12,39.42,4.75,MacNeil Nicole,Carleton Ravens,Shots on goal,2
+35,2460,2472,12,53.17,10.35,Berta Sydney,Carleton Ravens,Shots on goal,2
+36,2563,2575,12,54.63,8.64,Beard Justina,Carleton Ravens,Shots on goal,2
+37,2659,2671,12,46.2,5.22,Hunter Nicole,Carleton Ravens,Shots on goal,2
+38,2671,2683,12,55.09,11.96,Morais Jenna,Carleton Ravens,Goals,2
+39,2671,2683,12,55.09,11.96,Morais Jenna,Carleton Ravens,Shots on goal,2
+40,2762,2774,12,53.63,8.16,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+41,2831,2843,12,48.86,10.53,Clavelle Alexe,University of Ottawa Gee-Gees,Shots on goal,2
+42,2916,2928,12,49.78,7.69,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,2
+43,2970,2982,12,55.28,12.24,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,2
+44,2991,3003,12,53.99,8.73,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,2
+45,3040,3052,12,55.18,9.11,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,2
+46,3086,3098,12,54.45,14.9,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+47,3091,3103,12,39.69,14.14,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,2
+48,3093,3105,12,57.38,16.99,Plourde Gabrielle,University of Ottawa Gee-Gees,Shots on goal,2
+49,3250,3262,12,47.21,24.39,Ehrenberg Erika,Carleton Ravens,Shots on goal,3
+50,3353,3365,12,42.41,25.08,Callocchia Angelina,Carleton Ravens,Shots on goal,3
+51,3523,3535,12,52.09,14.78,Clavelle Alexe,University of Ottawa Gee-Gees,Goals,3
+52,3523,3535,12,52.09,14.78,Clavelle Alexe,University of Ottawa Gee-Gees,Shots on goal,3
+53,3632,3644,12,47.56,4.32,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,3
+54,3641,3653,12,53.91,13.72,Fillion Alice,University of Ottawa Gee-Gees,Goals,3
+55,3641,3653,12,53.91,13.72,Fillion Alice,University of Ottawa Gee-Gees,Shots on goal,3
+56,3729,3741,12,54.93,12.04,Guimond Lanie,Carleton Ravens,Shots on goal,3
+57,3777,3789,12,52.35,23.58,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3
+58,3822,3834,12,53.6,17.73,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3
+59,4041,4053,12,54.88,12.63,Guimond Lanie,Carleton Ravens,Goals,3
+60,4041,4053,12,54.88,12.63,Guimond Lanie,Carleton Ravens,Shots on goal,3
+61,4091,4103,12,39.09,1.32,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,3
+62,4165,4177,12,53.28,19.59,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,3
+63,4253,4265,12,54.17,8.25,Birkby Katherine,University of Ottawa Gee-Gees,Shots on goal,3
+64,4275,4287,12,43.83,7.07,Birkby Katherine,University of Ottawa Gee-Gees,Shots on goal,3
+65,4286,4298,12,54.17,10.52,Clavelle Alexe,University of Ottawa Gee-Gees,Shots on goal,3
+66,4325,4337,12,48.94,16.98,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,3
+67,4367,4379,12,39.62,0.87,Ehrenberg Erika,Carleton Ravens,Shots on goal,3
+68,4448,4460,12,47.12,7.57,MacNeil Nicole,Carleton Ravens,Shots on goal,3
+69,4541,4553,12,51.78,5.09,Plourde Gabrielle,University of Ottawa Gee-Gees,Shots on goal,3
+70,4560,4572,12,56.79,15.5,Plourde Gabrielle,University of Ottawa Gee-Gees,Shots on goal,3
+71,4621,4633,12,47.43,18.84,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,3
+72,4738,4750,12,28.97,3.21,MacLean Kate,University of Ottawa Gee-Gees,Goals,3
+73,4738,4750,12,28.97,3.21,MacLean Kate,University of Ottawa Gee-Gees,Shots on goal,3
+74,4853,4865,12,54.04,14.67,Scott Taylor,University of Ottawa Gee-Gees,Goals,3
+75,4853,4865,12,54.04,14.67,Scott Taylor,University of Ottawa Gee-Gees,Shots on goal,3

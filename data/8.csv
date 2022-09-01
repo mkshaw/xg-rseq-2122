@@ -1,0 +1,51 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,264,276,12,40.15,3.32,Hunter Nicole,Carleton Ravens,Shots on goal,1
+2,439,451,12,50.6,7.78,Andrews Samantha,Carleton Ravens,Shots on goal,1
+3,446,458,12,50.23,13.29,Grosso Jackie,Carleton Ravens,Shots on goal,1
+4,497,509,12,49.04,13.48,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,1
+5,534,546,12,48.86,22.49,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,1
+6,584,596,12,53.53,12.72,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+7,658,670,12,49.41,6.36,Quarto Lucie,Carleton Ravens,Shots on goal,1
+8,753,765,12,44.92,12.72,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+9,797,809,12,46.2,11.01,Hachez Sandrine,Carleton Ravens,Shots on goal,1
+10,810,822,12,39.14,20.88,MacNeil Nicole,Carleton Ravens,Shots on goal,1
+11,852,864,12,42.72,22.59,Fontaine Laurie,Carabins Universite de Montreal,Shots on goal,1
+12,1119,1131,12,41.71,16.23,Faubert Annabel,Carabins Universite de Montreal,Shots on goal,1
+13,1164,1176,12,48.03,19.84,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,1
+14,1323,1335,12,55.37,11.39,Beard Justina,Carleton Ravens,Shots on goal,1
+15,1397,1409,12,54.63,14.33,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+16,1694,1706,12,57.11,14.71,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,2
+17,1820,1832,12,43.27,22.02,Cole-Ashbury Rhys,Carleton Ravens,Shots on goal,2
+18,1845,1857,12,55.37,12.81,Hunter Nicole,Carleton Ravens,Shots on goal,2
+19,1876,1888,12,57.11,11.29,Bullock Victoria,Carleton Ravens,Shots on goal,2
+20,1942,1954,12,55.28,13.38,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,2
+21,1992,2004,12,49.13,11.83,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,2
+22,2147,2159,12,54.08,13.1,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,2
+23,2206,2218,12,37.77,1.33,Hunter Nicole,Carleton Ravens,Shots on goal,2
+24,2326,2338,12,51.52,15.94,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+25,2386,2398,12,45.19,13,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,2
+26,2410,2422,12,43.73,13.86,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,2
+27,2421,2433,12,55.73,14.71,Smythe Emily,Carleton Ravens,Shots on goal,2
+28,2616,2628,12,47.21,11.77,Quarto Lucie,Carleton Ravens,Shots on goal,2
+29,2654,2666,12,48.49,16.23,MacNeil Nicole,Carleton Ravens,Shots on goal,2
+30,2739,2751,12,47.3,6.83,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,2
+31,2761,2773,12,45.74,20.41,Duchesneau Chloe,Carabins Universite de Montreal,Shots on goal,2
+32,2992,3004,12,33.92,11.77,Dondo Breanne,Carabins Universite de Montreal,Shots on goal,2
+33,3051,3063,12,44.92,3.04,Serniuk Hayden,Carleton Ravens,Shots on goal,2
+34,3148,3160,12,52.62,15.75,Berta Sydney,Carleton Ravens,Shots on goal,3
+35,3244,3256,12,50.69,18.51,Bullock Victoria,Carleton Ravens,Shots on goal,3
+36,3320,3332,12,55.09,5.88,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+37,3543,3555,12,56.28,11.39,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+38,3581,3593,12,47.85,12.24,Faubert Annabel,Carabins Universite de Montreal,Shots on goal,3
+39,3702,3714,12,49.04,4.75,Grosso Jackie,Carleton Ravens,Shots on goal,3
+40,3730,3742,12,52.16,19.36,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3
+41,3773,3785,12,46.48,5.69,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,3
+42,3859,3871,12,46.84,20.6,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,3
+43,3870,3882,12,55.37,11.77,Quennec Kaleigh,Carabins Universite de Montreal,Goals,3
+44,3870,3882,12,55.37,11.77,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,3
+45,4021,4033,12,51.98,6.26,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,3
+46,4113,4125,12,50.78,12.15,Scurfield Annika,Carleton Ravens,Shots on goal,3
+47,4185,4197,12,46.75,20.12,MacNeil Nicole,Carleton Ravens,Shots on goal,3
+48,4199,4211,12,42.9,6.26,Guimond Lanie,Carleton Ravens,Shots on goal,3
+49,4558,4570,12,34.83,7.31,Quennec Kaleigh,Carabins Universite de Montreal,Goals,3
+50,4558,4570,12,34.83,7.31,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,3

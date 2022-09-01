@@ -1,0 +1,40 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,66,78,12,47.94,4.18,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+2,130,142,12,52.16,12.15,Lefebvre Mylene,Carabins Universite de Montreal,Shots on goal,1
+3,224,236,12,46.02,20.5,Quennec Kaleigh,Carabins Universite de Montreal,Goals,1
+4,224,236,12,46.02,20.5,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,1
+5,326,338,12,40.06,5.5,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,1
+6,420,432,12,48.31,6.07,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+7,429,441,12,51.88,7.69,Lalancette Stephanie,Concordia Stingers,Shots on goal,1
+8,594,606,12,48.13,13.29,Belzile Audrey,Concordia Stingers,Shots on goal,1
+9,920,932,12,55.28,9.68,Gendreau Chloe,Concordia Stingers,Shots on goal,1
+10,953,965,12,54.18,7.4,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+11,1038,1050,12,52.43,17.75,Drapeau Jessymaude,Concordia Stingers,Shots on goal,1
+12,1242,1254,12,52.89,6.74,Lavoie Emilie,Concordia Stingers,Shots on goal,1
+13,1380,1392,12,53.9,5.98,Lalancette Stephanie,Concordia Stingers,Shots on goal,1
+14,1430,1442,12,54.18,6.36,Gendreau Chloe,Concordia Stingers,Shots on goal,1
+15,1575,1587,12,49.13,11.67,Drapeau Jessymaude,Concordia Stingers,Shots on goal,1
+16,1612,1624,12,45.38,5.6,Laganiere Brigitte,Concordia Stingers,Shots on goal,1
+17,1657,1669,12,47.39,20.41,Lavoie Emilie,Concordia Stingers,Shots on goal,1
+18,1987,1999,12,52.62,12.05,Drapeau Jessymaude,Concordia Stingers,Goals,2
+19,1987,1999,12,52.62,12.05,Drapeau Jessymaude,Concordia Stingers,Shots on goal,2
+20,2112,2124,12,55.18,9.49,Rodrigue Audrey-Ann,Concordia Stingers,Shots on goal,2
+21,2409,2421,12,41.8,18.22,Julien Ariane,Concordia Stingers,Shots on goal,2
+22,2543,2555,12,50.97,5.79,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,2
+23,2787,2799,12,50.05,20.03,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+24,3287,3299,12,50.97,12.62,Lavoie Emilie,Concordia Stingers,Shots on goal,2
+25,3343,3355,12,52.07,8.92,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+26,3374,3386,12,43.82,10.72,Garand Joannie,Carabins Universite de Montreal,Shots on goal,2
+27,3426,3438,12,50.88,18.7,Gendreau Chloe,Concordia Stingers,Shots on goal,2
+28,3483,3495,12,55.92,10.53,Belzile Audrey,Concordia Stingers,Goals,2
+29,3483,3495,12,55.92,10.53,Belzile Audrey,Concordia Stingers,Shots on goal,2
+30,3681,3693,12,44.92,16.32,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+31,3740,3752,12,45.1,10.06,Belzile Audrey,Concordia Stingers,Shots on goal,2
+32,3827,3839,12,48.31,12.24,Fontaine Laurie,Carabins Universite de Montreal,Shots on goal,3
+33,4318,4330,12,46.38,18.7,Belzile Audrey,Concordia Stingers,Shots on goal,3
+34,4396,4408,12,55.37,8.64,Drapeau Jessymaude,Concordia Stingers,Shots on goal,3
+35,4439,4451,12,49.96,19.36,Lemelin Stephanie,Concordia Stingers,Shots on goal,3
+36,4630,4642,12,39.51,23.73,Lemelin Stephanie,Concordia Stingers,Shots on goal,3
+37,4632,4644,12,54.27,10.63,Gendreau Chloe,Concordia Stingers,Shots on goal,3
+38,4686,4698,12,44.92,17.37,Laganiere Brigitte,Concordia Stingers,Shots on goal,3
+39,5365,5377,12,48.68,21.16,Garand Joannie,Carabins Universite de Montreal,Shots on goal,3

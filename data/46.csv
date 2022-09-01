@@ -1,0 +1,49 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,48,60,12,54.18,13.19,Colizza Chrissy,McGill Martlets,Goals,1
+2,48,60,12,54.18,13.19,Colizza Chrissy,McGill Martlets,Shots on goal,1
+3,164,176,12,54.45,11.29,Gagnon Arianne,University of Ottawa Gee-Gees,Shots on goal,1
+4,209,221,12,51.79,25.06,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,1
+5,311,323,12,47.67,1.61,Jardin Laura,McGill Martlets,Shots on goal,1
+6,334,346,12,46.93,3.13,Fillion Alice,University of Ottawa Gee-Gees,Shots on goal,1
+7,479,491,12,49.87,19.74,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+8,512,524,12,52.43,22.11,Biesenthal Alyssa,University of Ottawa Gee-Gees,Shots on goal,1
+9,617,629,12,54.63,5.6,Stasiuk Cassidy,McGill Martlets,Shots on goal,1
+10,633,645,12,46.84,11.01,McCallum Makenzie,McGill Martlets,Shots on goal,1
+11,705,717,12,55.73,13.67,Harley Megan,McGill Martlets,Shots on goal,1
+12,771,783,12,51.52,9.3,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+13,834,846,12,53.17,12.43,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,1
+14,844,856,12,50.23,17.65,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+15,925,937,12,39.14,24.49,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,1
+16,948,960,12,41.25,5.41,Verbruggen Raelene,McGill Martlets,Shots on goal,1
+17,1089,1101,12,54.45,18.32,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,1
+18,1170,1182,12,49.68,7.97,MacLean Kate,University of Ottawa Gee-Gees,Shots on goal,1
+19,1250,1262,12,54.82,13.29,Stasiuk Cassidy,McGill Martlets,Shots on goal,1
+20,1295,1307,12,52.25,2.94,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+21,1472,1484,12,56.74,9.49,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,1
+22,1497,1509,12,57.2,15.09,McCallum Makenzie,McGill Martlets,Shots on goal,1
+23,1509,1521,12,49.41,7.59,Jardin Laura,McGill Martlets,Shots on goal,1
+24,1674,1686,12,53.72,5.88,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+25,1704,1716,12,51.33,6.55,Clavelle Alexe,University of Ottawa Gee-Gees,Shots on goal,2
+26,1734,1746,12,53.99,9.97,Colizza Chrissy,McGill Martlets,Shots on goal,2
+27,1786,1798,12,55.55,17.75,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,2
+28,1816,1828,12,50.97,13,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,2
+29,1929,1941,12,54.45,7.97,Jardin Laura,McGill Martlets,Shots on goal,2
+30,1993,2005,12,55.28,12.72,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+31,1995,2007,12,56.83,5.98,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+32,1996,2008,12,56.56,10.72,Labrecque Marika,McGill Martlets,Shots on goal,2
+33,2392,2404,12,55.64,13.48,McCallum Makenzie,McGill Martlets,Goals,2
+34,2392,2404,12,55.64,13.48,McCallum Makenzie,McGill Martlets,Shots on goal,2
+35,2521,2533,12,57.29,14.52,Piers Emma,McGill Martlets,Shots on goal,2
+36,2523,2535,12,48.31,9.4,Kastelic Jaime,McGill Martlets,Shots on goal,2
+37,2629,2641,12,55.09,13.38,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+38,2645,2657,12,55.37,11.58,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+39,2737,2749,12,52.25,9.21,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,2
+40,2835,2847,12,41.07,13.76,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,2
+41,3033,3045,12,55.18,12.91,Campbell Quynn,McGill Martlets,Goals,2
+42,3033,3045,12,55.18,12.91,Campbell Quynn,McGill Martlets,Shots on goal,2
+43,3110,3122,12,52.71,13.29,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+44,3184,3196,12,42.26,13.67,Harley Megan,McGill Martlets,Shots on goal,2
+45,3255,3267,12,48.13,12.72,Fillion Alice,University of Ottawa Gee-Gees,Goals,3
+46,3255,3267,12,48.13,12.72,Fillion Alice,University of Ottawa Gee-Gees,Shots on goal,3
+47,3269,3281,12,49.32,13,Colizza Chrissy,McGill Martlets,Goals,3
+48,3269,3281,12,49.32,13,Colizza Chrissy,McGill Martlets,Shots on goal,3

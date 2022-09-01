@@ -1,0 +1,84 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,1,13,12,45.93,6.55,Stasiuk Cassidy,McGill Martlets,Shots on goal,1
+2,10,22,12,51.98,2.47,McCallum Makenzie,McGill Martlets,Shots on goal,1
+3,142,154,12,45.56,23.54,Desjardins Stephanie,McGill Martlets,Shots on goal,1
+4,276,288,12,50.69,24.58,Smythe Emily,Carleton Ravens,Shots on goal,1
+5,332,344,12,53.44,15.66,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+6,348,360,12,48.49,6.36,Mura Elizabeth,McGill Martlets,Shots on goal,1
+7,414,426,12,52.16,23.54,Stasiuk Cassidy,McGill Martlets,Shots on goal,1
+8,445,457,12,45.83,12.24,McCallum Makenzie,McGill Martlets,Goals,1
+9,445,457,12,45.83,12.24,McCallum Makenzie,McGill Martlets,Shots on goal,1
+10,547,559,12,54.08,16.51,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+11,581,593,12,54.54,6.36,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+12,692,704,12,41.16,15.47,Pridham Olivia,McGill Martlets,Shots on goal,1
+13,824,836,12,48.22,4.56,Harley Megan,McGill Martlets,Shots on goal,1
+14,832,844,12,50.23,13,Harley Megan,McGill Martlets,Shots on goal,1
+15,1088,1100,12,46.38,19.17,MacNeil Nicole,Carleton Ravens,Shots on goal,1
+16,1173,1185,12,53.26,10.25,Chouchani Stephanie,Carleton Ravens,Shots on goal,1
+17,1183,1195,12,56.74,10.35,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,1
+18,1198,1210,12,56.28,19.17,Morais Jenna,Carleton Ravens,Shots on goal,1
+19,1338,1350,12,54.08,6.55,Harley Megan,McGill Martlets,Shots on goal,1
+20,1343,1355,12,57.2,15.57,Harley Megan,McGill Martlets,Shots on goal,1
+21,1361,1373,12,40.43,20.6,Vaananen Mia,McGill Martlets,Shots on goal,1
+22,1464,1476,12,52.89,12.53,Chouchani Stephanie,Carleton Ravens,Shots on goal,1
+23,1508,1520,12,44.28,3.51,Cole-Ashbury Rhys,Carleton Ravens,Goals,1
+24,1508,1520,12,44.28,3.51,Cole-Ashbury Rhys,Carleton Ravens,Shots on goal,1
+25,1614,1626,12,49.5,24.11,Morais Jenna,Carleton Ravens,Shots on goal,1
+26,1672,1684,12,49.5,12.62,MacLellan Lydia,McGill Martlets,Goals,1
+27,1672,1684,12,49.5,12.62,MacLellan Lydia,McGill Martlets,Shots on goal,1
+28,1755,1767,12,44,8.64,Mura Elizabeth,McGill Martlets,Shots on goal,2
+29,1772,1784,12,57.75,3.51,Colizza Chrissy,McGill Martlets,Goals,2
+30,1772,1784,12,57.75,3.51,Colizza Chrissy,McGill Martlets,Shots on goal,2
+31,1823,1835,12,48.68,19.93,Serniuk Hayden,Carleton Ravens,Shots on goal,2
+32,1891,1903,12,54.27,11.86,Jardin Laura,McGill Martlets,Shots on goal,2
+33,1943,1955,12,35.57,1.8,Stasiuk Cassidy,McGill Martlets,Shots on goal,2
+34,2014,2026,12,49.23,17.65,Berta Sydney,Carleton Ravens,Goals,2
+35,2014,2026,12,49.23,17.65,Berta Sydney,Carleton Ravens,Shots on goal,2
+36,2188,2200,12,47.58,16.13,Beard Justina,Carleton Ravens,Shots on goal,2
+37,2238,2250,12,46.75,6.17,Jardin Laura,McGill Martlets,Shots on goal,2
+38,2362,2374,12,42.08,14.62,Callocchia Angelina,Carleton Ravens,Shots on goal,2
+39,2363,2375,12,56.01,14.62,Serniuk Hayden,Carleton Ravens,Shots on goal,2
+40,2464,2476,12,51.15,18.51,Colizza Chrissy,McGill Martlets,Shots on goal,2
+41,2533,2545,12,56.47,6.55,McCallum Makenzie,McGill Martlets,Shots on goal,2
+42,2543,2555,12,47.39,20.69,Scurfield Annika,Carleton Ravens,Shots on goal,2
+43,2629,2641,12,41.71,3.23,Andrews Samantha,Carleton Ravens,Shots on goal,2
+44,2696,2708,12,43.45,4.08,Mura Elizabeth,McGill Martlets,Shots on goal,2
+45,2741,2753,12,55.92,13.95,Keeper Stephanie,McGill Martlets,Shots on goal,2
+46,2815,2827,12,43.08,24.01,Pridham Olivia,McGill Martlets,Shots on goal,2
+47,2849,2861,12,52.16,17.27,Smythe Emily,Carleton Ravens,Shots on goal,2
+48,2881,2893,12,53.72,15.47,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+49,2892,2904,12,50.88,18.6,Morais Jenna,Carleton Ravens,Shots on goal,2
+50,3057,3069,12,52.43,14.14,Desjardins Stephanie,McGill Martlets,Shots on goal,2
+51,3106,3118,12,47.3,10.53,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+52,3135,3147,12,56.38,14.33,Downie-Landry Jade,McGill Martlets,Goals,2
+53,3135,3147,12,56.38,14.33,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+54,3218,3230,12,51.06,15.94,Grosso Jackie,Carleton Ravens,Shots on goal,2
+55,3320,3332,12,45.93,7.78,Beard Justina,Carleton Ravens,Shots on goal,2
+56,3381,3393,12,42.53,3.13,Kastelic Jaime,McGill Martlets,Shots on goal,2
+57,3401,3413,12,55.73,12.24,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+58,3421,3433,12,50.78,17.75,Colizza Chrissy,McGill Martlets,Shots on goal,2
+59,3470,3482,12,52.8,12.62,Stasiuk Cassidy,McGill Martlets,Shots on goal,2
+60,3489,3501,12,54.45,6.93,Kastelic Jaime,McGill Martlets,Shots on goal,2
+61,3500,3512,12,56.28,14.9,Jardin Laura,McGill Martlets,Goals,2
+62,3500,3512,12,56.28,14.9,Jardin Laura,McGill Martlets,Shots on goal,2
+63,3574,3586,12,49.32,5.6,Keeper Stephanie,McGill Martlets,Shots on goal,2
+64,3674,3686,12,51.43,18.89,Morais Jenna,Carleton Ravens,Shots on goal,3
+65,3801,3813,12,53.99,9.02,Beard Justina,Carleton Ravens,Shots on goal,3
+66,3931,3943,12,46.93,13.95,Berta Sydney,Carleton Ravens,Shots on goal,3
+67,4091,4103,12,46.2,12.62,Beard Justina,Carleton Ravens,Shots on goal,3
+68,4326,4338,12,44.09,8.64,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+69,4380,4392,12,50.14,13,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+70,4387,4399,12,49.23,20.31,Colizza Chrissy,McGill Martlets,Shots on goal,3
+71,4523,4535,12,48.4,21.16,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3
+72,4690,4702,12,51.52,22.21,McCallum Makenzie,McGill Martlets,Shots on goal,3
+73,4731,4743,12,40.61,6.74,Kastelic Jaime,McGill Martlets,Shots on goal,3
+74,4734,4746,12,56.65,18.6,McCallum Makenzie,McGill Martlets,Shots on goal,3
+75,4790,4802,12,49.04,19.46,Desjardins Stephanie,McGill Martlets,Shots on goal,3
+76,4862,4874,12,48.49,13.57,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+77,4886,4898,12,54.36,10.82,Downie-Landry Jade,McGill Martlets,Goals,3
+78,4886,4898,12,54.36,10.82,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+79,4942,4954,12,56.28,9.97,Serniuk Hayden,Carleton Ravens,Shots on goal,3
+80,5106,5118,12,49.68,3.7,McCallum Makenzie,McGill Martlets,Shots on goal,3
+81,5108,5120,12,53.44,12.72,Jardin Laura,McGill Martlets,Goals,3
+82,5108,5120,12,53.44,12.72,Jardin Laura,McGill Martlets,Shots on goal,3
+83,5252,5264,12,46.38,2.75,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3

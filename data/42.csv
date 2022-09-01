@@ -1,0 +1,56 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,446,458,12,57.66,13.67,Colizza Chrissy,McGill Martlets,Goals,1
+2,446,458,12,57.66,13.67,Colizza Chrissy,McGill Martlets,Shots on goal,1
+3,589,601,12,53.44,8.26,Desjardins Stephanie,McGill Martlets,Shots on goal,1
+4,803,815,12,49.23,13.38,Drapeau Jessymaude,Concordia Stingers,Shots on goal,1
+5,930,942,12,53.26,13.29,Thibault Zoe,Concordia Stingers,Shots on goal,1
+6,1261,1273,12,57.75,12.43,Veillette Sandrine,Concordia Stingers,Goals,1
+7,1261,1273,12,57.75,12.43,Veillette Sandrine,Concordia Stingers,Shots on goal,1
+8,1571,1583,12,52.71,17.46,Harley Megan,McGill Martlets,Shots on goal,1
+9,1623,1635,12,49.5,5.5,Kastelic Jaime,McGill Martlets,Shots on goal,1
+10,1673,1685,12,47.03,9.78,Gendreau Chloe,Concordia Stingers,Shots on goal,1
+11,1683,1695,12,54.08,10.91,Thibault Zoe,Concordia Stingers,Shots on goal,1
+12,2095,2107,12,47.67,19.36,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+13,2277,2289,12,54.18,11.86,Colizza Chrissy,McGill Martlets,Shots on goal,2
+14,2430,2442,12,48.68,17.94,Lalancette Stephanie,Concordia Stingers,Shots on goal,2
+15,2621,2633,12,53.9,15.47,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+16,2759,2771,12,49.13,14.62,Belzile Audrey,Concordia Stingers,Shots on goal,2
+17,2771,2783,12,49.13,11.39,Belzile Audrey,Concordia Stingers,Shots on goal,2
+18,2805,2817,12,49.5,8.35,Gendreau Chloe,Concordia Stingers,Goals,2
+19,2805,2817,12,49.5,8.35,Gendreau Chloe,Concordia Stingers,Shots on goal,2
+20,2849,2861,12,55.83,18.13,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+21,2889,2901,12,55.92,14.71,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+22,2987,2999,12,57.38,15,Harley Megan,McGill Martlets,Shots on goal,2
+23,2995,3007,12,49.13,2.56,Manarolis Maria,Concordia Stingers,Shots on goal,2
+24,3034,3046,12,42.44,24.11,Belzile Audrey,Concordia Stingers,Shots on goal,2
+25,3086,3098,12,54.54,13,Lavoie Emilie,Concordia Stingers,Shots on goal,2
+26,3233,3245,12,43.45,21.35,Kastelic Jaime,McGill Martlets,Shots on goal,2
+27,3289,3301,12,55.55,12.05,Colizza Chrissy,McGill Martlets,Shots on goal,2
+28,3434,3446,12,53.81,18.03,Lavoie Emilie,Concordia Stingers,Shots on goal,2
+29,3511,3523,12,51.06,18.89,Thibault Zoe,Concordia Stingers,Shots on goal,2
+30,3593,3605,12,51.24,9.11,Drapeau Jessymaude,Concordia Stingers,Goals,2
+31,3593,3605,12,51.24,9.11,Drapeau Jessymaude,Concordia Stingers,Shots on goal,2
+32,3704,3716,12,55.09,13.95,Stasiuk Cassidy,McGill Martlets,Shots on goal,2
+33,3863,3875,12,56.56,15.28,Lavoie Emilie,Concordia Stingers,Shots on goal,3
+34,3906,3918,12,49.96,8.83,Labrecque Marika,McGill Martlets,Shots on goal,3
+35,3925,3937,12,53.17,13.86,Gendreau Chloe,Concordia Stingers,Shots on goal,3
+36,3959,3971,12,49.87,4.75,Thibault Zoe,Concordia Stingers,Shots on goal,3
+37,3979,3991,12,41.34,6.64,Philbert Leonie,Concordia Stingers,Shots on goal,3
+38,4195,4207,12,45.38,6.36,Lalancette Stephanie,Concordia Stingers,Shots on goal,3
+39,4223,4235,12,51.52,16.51,Lavoie Emilie,Concordia Stingers,Shots on goal,3
+40,4236,4248,12,50.51,7.4,Lalancette Stephanie,Concordia Stingers,Shots on goal,3
+41,4290,4302,12,46.84,19.55,Keeper Stephanie,McGill Martlets,Shots on goal,3
+42,4334,4346,12,54.91,12.62,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,3
+43,4358,4370,12,47.3,16.32,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,3
+44,4512,4524,12,57.11,15.75,Keeper Stephanie,McGill Martlets,Shots on goal,3
+45,4586,4598,12,47.03,12.05,Stevens Ria,McGill Martlets,Goals,3
+46,4586,4598,12,47.03,12.05,Stevens Ria,McGill Martlets,Shots on goal,3
+47,4825,4837,12,54.63,8.54,Belzile Audrey,Concordia Stingers,Shots on goal,3
+48,4985,4997,12,46.2,10.53,Lavoie Emilie,Concordia Stingers,Shots on goal,3
+49,5017,5029,12,46.48,14.9,Belzile Audrey,Concordia Stingers,Goals,3
+50,5017,5029,12,46.48,14.9,Belzile Audrey,Concordia Stingers,Shots on goal,3
+51,5085,5097,12,55.28,9.02,Manarolis Maria,Concordia Stingers,Shots on goal,3
+52,5154,5166,12,48.22,20.97,McCallum Makenzie,McGill Martlets,Shots on goal,3
+53,5264,5276,12,49.13,15.38,Manarolis Maria,Concordia Stingers,Shots on goal,3
+54,5467,5479,12,39.42,23.44,Laganiere Brigitte,Concordia Stingers,Shots on goal,3
+55,5532,5544,12,56.01,7.59,Bernier Marie-Pascale,Concordia Stingers,Shots on goal,3

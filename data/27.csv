@@ -1,0 +1,76 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,103,115,12,55.64,10.63,MacLean Kate,University of Ottawa Gee-Gees,Shots on goal,1
+2,110,122,12,46.02,14.14,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,1
+3,224,236,12,44.09,1.42,Hale Olivia,Concordia Stingers,Shots on goal,1
+4,270,282,12,51.43,24.01,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,1
+5,317,329,12,49.13,23.54,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,1
+6,421,433,12,45.56,16.89,Lavoie Emilie,Concordia Stingers,Shots on goal,1
+7,511,523,12,45.83,4.08,Gendreau Chloe,Concordia Stingers,Shots on goal,1
+8,524,536,12,56.83,13.95,Manarolis Maria,Concordia Stingers,Shots on goal,1
+9,929,941,12,53.99,16.42,Laganiere Brigitte,Concordia Stingers,Shots on goal,1
+10,1017,1029,12,55.83,16.32,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+11,1018,1030,12,56.93,14.81,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+12,1041,1053,12,55.18,18.98,Rodrigue Audrey-Ann,Concordia Stingers,Shots on goal,1
+13,1203,1215,12,48.49,15.94,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+14,1354,1366,12,55.09,18.32,Manarolis Maria,Concordia Stingers,Shots on goal,1
+15,1356,1368,12,56.1,11.48,Drapeau Jessymaude,Concordia Stingers,Shots on goal,1
+16,1468,1480,12,40.15,4.75,Calderone Alexandra,Concordia Stingers,Shots on goal,1
+17,1479,1491,12,52.43,12.43,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,1
+18,1521,1533,12,51.15,23.82,Lavoie Emilie,Concordia Stingers,Shots on goal,1
+19,1649,1661,12,43.54,22.49,Lalancette Stephanie,Concordia Stingers,Shots on goal,2
+20,1663,1675,12,55.37,11.96,Belzile Audrey,Concordia Stingers,Shots on goal,2
+21,1692,1704,12,49.5,14.05,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+22,1714,1726,12,52.16,5.31,Thibault Zoe,Concordia Stingers,Shots on goal,2
+23,1744,1756,12,45.93,21.16,Laganiere Brigitte,Concordia Stingers,Shots on goal,2
+24,1755,1767,12,47.58,14.14,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,2
+25,1799,1811,12,54.54,16.13,Lalonde Kylie,University of Ottawa Gee-Gees,Shots on goal,2
+26,1877,1889,12,56.01,12.15,Lalancette Stephanie,Concordia Stingers,Goals,2
+27,1877,1889,12,56.01,12.15,Lalancette Stephanie,Concordia Stingers,Shots on goal,2
+28,2049,2061,12,39.14,12.91,Laganiere Brigitte,Concordia Stingers,Shots on goal,2
+29,2072,2084,12,48.95,19.08,Belzile Audrey,Concordia Stingers,Shots on goal,2
+30,2074,2086,12,54.45,12.15,Belzile Audrey,Concordia Stingers,Shots on goal,2
+31,2089,2101,12,49.87,17.56,Drapeau Jessymaude,Concordia Stingers,Shots on goal,2
+32,2168,2180,12,49.78,17.08,Thibault Zoe,Concordia Stingers,Shots on goal,2
+33,2298,2310,12,39.51,16.42,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+34,2351,2363,12,52.71,12.53,MacLean Kate,University of Ottawa Gee-Gees,Goals,2
+35,2351,2363,12,52.71,12.53,MacLean Kate,University of Ottawa Gee-Gees,Shots on goal,2
+36,2482,2494,12,57.2,11.86,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+37,2509,2521,12,46.93,19.08,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+38,2541,2553,12,43.63,24.58,Veillette Sandrine,Concordia Stingers,Shots on goal,2
+39,2612,2624,12,41.71,24.49,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+40,2618,2630,12,51.33,5.6,Deaudelin Christine,University of Ottawa Gee-Gees,Shots on goal,2
+41,2709,2721,12,39.14,11.77,Calderone Alexandra,Concordia Stingers,Shots on goal,2
+42,2838,2850,12,40.88,2.37,Kraczynski Mikaila,University of Ottawa Gee-Gees,Shots on goal,2
+43,2957,2969,12,54.91,16.42,Drapeau Jessymaude,Concordia Stingers,Shots on goal,2
+44,3118,3130,12,50.97,6.36,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,2
+45,3140,3152,12,48.49,21.83,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,2
+46,3421,3433,12,47.85,6.64,Gendreau Chloe,Concordia Stingers,Shots on goal,3
+47,3670,3682,12,48.03,7.12,Thibault Zoe,Concordia Stingers,Shots on goal,3
+48,3694,3706,12,50.88,7.69,Gagnon Arianne,University of Ottawa Gee-Gees,Shots on goal,3
+49,3808,3820,12,53.99,15.09,Bernier Marie-Pascale,Concordia Stingers,Shots on goal,3
+50,3821,3833,12,45.38,22.4,Drapeau Jessymaude,Concordia Stingers,Shots on goal,3
+51,4197,4209,12,47.76,18.22,MacLean Kate,University of Ottawa Gee-Gees,Shots on goal,3
+52,4280,4292,12,51.33,14.43,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,3
+53,4337,4349,12,39.51,10.44,Lemelin Stephanie,Concordia Stingers,Shots on goal,3
+54,4366,4378,12,49.41,21.54,Clavelle Alexe,University of Ottawa Gee-Gees,Shots on goal,3
+55,4397,4409,12,42.72,13.19,Minville Ariane,University of Ottawa Gee-Gees,Shots on goal,3
+56,4421,4433,12,50.51,15.94,Gareau Sophie,University of Ottawa Gee-Gees,Shots on goal,3
+57,4616,4628,12,55.46,13.95,Gagnon Arianne,University of Ottawa Gee-Gees,Shots on goal,3
+58,4765,4777,12,47.12,23.06,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,3
+59,5009,5021,12,50.6,16.61,Lalancette Stephanie,Concordia Stingers,Shots on goal,4
+60,5048,5060,12,43.54,5.41,Lalancette Stephanie,Concordia Stingers,Shots on goal,4
+61,5083,5095,12,54.45,17.18,Lavoie Emilie,Concordia Stingers,Shots on goal,4
+62,5151,5163,12,49.04,17.65,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,4
+63,5207,5219,12,41.89,3.99,Minville Ariane,University of Ottawa Gee-Gees,Shots on goal,4
+64,5222,5234,12,48.4,13.29,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,4
+65,5320,5332,12,43.82,16.51,Julien Ariane,Concordia Stingers,Shots on goal,4
+66,5360,5372,12,49.32,4.84,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,4
+67,5363,5375,12,55.09,8.64,Proulx Angelique,University of Ottawa Gee-Gees,Shots on goal,4
+68,5474,5486,12,56.93,14.05,Laganiere Brigitte,Concordia Stingers,Shots on goal,5
+69,5573,5585,12,54.36,6.45,Macmillan Alyssa,University of Ottawa Gee-Gees,Shots on goal,5
+70,5643,5655,12,54.27,8.73,Laganiere Brigitte,Concordia Stingers,Shots on goal,5
+71,5661,5673,12,46.29,11.77,Lemelin Stephanie,Concordia Stingers,Shots on goal,5
+72,5675,5687,12,56.47,14.62,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,5
+73,5685,5697,12,48.13,17.46,Lavoie Emilie,Concordia Stingers,Shots on goal,5
+74,5706,5718,12,57.29,12.91,Aubin Ariane,University of Ottawa Gee-Gees,Goals,5
+75,5706,5718,12,57.29,12.91,Aubin Ariane,University of Ottawa Gee-Gees,Shots on goal,5

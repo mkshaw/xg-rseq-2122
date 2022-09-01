@@ -1,0 +1,48 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,31,43,12,44.83,22.59,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,1
+2,76,88,12,55.46,14.24,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+3,92,104,12,56.56,11.58,Lefebvre Mylene,Carabins Universite de Montreal,Goals,1
+4,92,104,12,56.56,11.58,Lefebvre Mylene,Carabins Universite de Montreal,Shots on goal,1
+5,161,173,12,49.96,5.22,Smythe Emily,Carleton Ravens,Shots on goal,1
+6,221,233,12,46.11,8.07,Hachez Sandrine,Carleton Ravens,Shots on goal,1
+7,252,264,12,42.08,6.36,Hunter Nicole,Carleton Ravens,Shots on goal,1
+8,283,295,12,44.64,23.73,Cole-Ashbury Rhys,Carleton Ravens,Shots on goal,1
+9,443,455,12,41.43,3.99,Andrews Samantha,Carleton Ravens,Shots on goal,1
+10,513,525,12,39.78,22.21,Cole-Ashbury Rhys,Carleton Ravens,Shots on goal,1
+11,669,681,12,53.35,14.9,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+12,1036,1048,12,53.08,17.18,Garand Joannie,Carabins Universite de Montreal,Shots on goal,1
+13,1175,1187,12,47.39,8.35,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,1
+14,1177,1189,12,55.73,11.29,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+15,1248,1260,12,45.56,19.27,Faubert Annabel,Carabins Universite de Montreal,Shots on goal,1
+16,1261,1273,12,51.79,21.07,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+17,1401,1413,12,41.16,4.46,Andrews Samantha,Carleton Ravens,Shots on goal,2
+18,1439,1451,12,54.27,18.22,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,2
+19,1555,1567,12,45.47,24.49,Hachez Sandrine,Carleton Ravens,Shots on goal,2
+20,1644,1656,12,49.32,18.13,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+21,1791,1803,12,53.08,13.19,Berta Sydney,Carleton Ravens,Shots on goal,2
+22,1958,1970,12,51.79,16.61,Terriault Marie,Carabins Universite de Montreal,Shots on goal,2
+23,2233,2245,12,48.86,24.58,Cole-Ashbury Rhys,Carleton Ravens,Shots on goal,2
+24,2255,2267,12,46.75,21.73,Cole-Ashbury Rhys,Carleton Ravens,Shots on goal,2
+25,2371,2383,12,49.5,13.67,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+26,2400,2412,12,56.01,15.57,Fleming Anita,Carleton Ravens,Shots on goal,2
+27,2493,2505,12,51.88,6.74,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,2
+28,2516,2528,12,49.13,8.35,Morais Jenna,Carleton Ravens,Shots on goal,2
+29,2789,2801,12,47.03,20.5,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,2
+30,2989,3001,12,52.16,13.95,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,2
+31,3148,3160,12,53.08,13.29,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,2
+32,3236,3248,12,49.96,17.08,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+33,3327,3339,12,50.97,13.48,Bullock Victoria,Carleton Ravens,Shots on goal,3
+34,3354,3366,12,42.9,14.9,Quarto Lucie,Carleton Ravens,Shots on goal,3
+35,3398,3410,12,49.59,20.88,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,3
+36,3417,3429,12,47.67,17.18,Chiasson Noemie,Carabins Universite de Montreal,Shots on goal,3
+37,3426,3438,12,40.33,10.16,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,3
+38,3541,3553,12,52.8,12.81,Berta Sydney,Carleton Ravens,Shots on goal,3
+39,3549,3561,12,53.44,14.05,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,3
+40,3646,3658,12,40.88,8.45,MacNeil Nicole,Carleton Ravens,Shots on goal,3
+41,3805,3817,12,50.6,21.73,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,3
+42,3866,3878,12,49.68,19.84,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,3
+43,3935,3947,12,48.4,5.5,Fontaine Laurie,Carabins Universite de Montreal,Shots on goal,3
+44,3982,3994,12,53.81,10.16,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,3
+45,4044,4056,12,40.15,2.18,Hunter Nicole,Carleton Ravens,Shots on goal,3
+46,4151,4163,12,53.63,7.69,Andrews Samantha,Carleton Ravens,Shots on goal,3
+47,4373,4385,12,54.18,17.46,Quarto Lucie,Carleton Ravens,Shots on goal,3

@@ -1,0 +1,77 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,53,65,12,50.78,0.85,Dumont Camille,Carabins Universite de Montreal,Shots on goal,1
+2,70,82,12,50.6,16.51,Dube Marie-Pier,Carabins Universite de Montreal,Shots on goal,1
+3,104,116,12,39.33,1.33,Gervais Audrey,Carabins Universite de Montreal,Shots on goal,1
+4,253,265,12,49.68,4.37,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+5,287,299,12,43.45,7.5,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+6,508,520,12,45.83,11.1,Keeper Stephanie,McGill Martlets,Shots on goal,1
+7,753,765,12,51.7,11.29,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+8,755,767,12,52.07,11.77,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+9,756,768,12,55.46,15.19,Veillette Audrey-Anne,Carabins Universite de Montreal,Goals,1
+10,756,768,12,55.46,15.19,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+11,914,926,12,53.08,11.39,Lefebvre Mylene,Carabins Universite de Montreal,Shots on goal,1
+12,971,983,12,54.91,13.48,Colizza Chrissy,McGill Martlets,Shots on goal,1
+13,1026,1038,12,53.63,18.6,Piers Emma,McGill Martlets,Shots on goal,1
+14,1029,1041,12,57.75,11.01,Downie-Landry Jade,McGill Martlets,Goals,1
+15,1029,1041,12,57.75,11.01,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+16,1083,1095,12,53.53,11.96,Boulanger Jessika,Carabins Universite de Montreal,Goals,1
+17,1083,1095,12,53.53,11.96,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+18,1249,1261,12,47.48,2.94,Colizza Chrissy,McGill Martlets,Shots on goal,1
+19,1278,1290,12,55.37,13.86,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+20,1289,1301,12,55.28,7.4,Downie-Landry Jade,McGill Martlets,Shots on goal,1
+21,1308,1320,12,46.75,13.48,McCallum Makenzie,McGill Martlets,Shots on goal,1
+22,1363,1375,12,54.54,18.22,Paquin Emilie-Renee,Carabins Universite de Montreal,Goals,1
+23,1363,1375,12,54.54,18.22,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,1
+24,1428,1440,12,52.71,8.92,Stasiuk Cassidy,McGill Martlets,Shots on goal,1
+25,1430,1442,12,56.01,13.38,Colizza Chrissy,McGill Martlets,Goals,1
+26,1430,1442,12,56.01,13.38,Colizza Chrissy,McGill Martlets,Shots on goal,1
+27,1479,1491,12,55.55,15.75,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,1
+28,1545,1557,12,48.22,21.26,Faubert Annabel,Carabins Universite de Montreal,Shots on goal,1
+29,1681,1693,12,55.37,13.19,Piers Emma,McGill Martlets,Shots on goal,2
+30,1927,1939,12,54.27,6.07,Rankin Katie,McGill Martlets,Shots on goal,2
+31,1975,1987,12,47.48,22.87,Rankin Katie,McGill Martlets,Shots on goal,2
+32,1988,2000,12,40.79,22.78,Pridham Olivia,McGill Martlets,Shots on goal,2
+33,1990,2002,12,51.7,7.4,Stasiuk Cassidy,McGill Martlets,Shots on goal,2
+34,2073,2085,12,44.73,3.13,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+35,2134,2146,12,45.19,7.88,Kastelic Jaime,McGill Martlets,Shots on goal,2
+36,2217,2229,12,50.05,7.4,Desjardins Stephanie,McGill Martlets,Shots on goal,2
+37,2307,2319,12,54.45,14.62,Veillette Audrey-Anne,Carabins Universite de Montreal,Goals,2
+38,2307,2319,12,54.45,14.62,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+39,2375,2387,12,54.36,13.38,Downie-Landry Jade,McGill Martlets,Shots on goal,2
+40,2394,2406,12,48.68,22.21,Piers Emma,McGill Martlets,Shots on goal,2
+41,2440,2452,12,54.91,12.05,Rankin Katie,McGill Martlets,Shots on goal,2
+42,2498,2510,12,52.34,13.29,Vaananen Mia,McGill Martlets,Goals,2
+43,2498,2510,12,52.34,13.29,Vaananen Mia,McGill Martlets,Shots on goal,2
+44,2741,2753,12,41.71,9.68,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,2
+45,2804,2816,12,42.81,6.93,Labrecque Marika,McGill Martlets,Shots on goal,2
+46,2961,2973,12,53.9,14.33,McCallum Makenzie,McGill Martlets,Shots on goal,2
+47,3291,3303,12,55.64,19.36,Dube Marie-Pier,Carabins Universite de Montreal,Shots on goal,3
+48,3343,3355,12,49.04,23.44,Pridham Olivia,McGill Martlets,Shots on goal,3
+49,3395,3407,12,49.23,18.51,Jardin Laura,McGill Martlets,Shots on goal,3
+50,3546,3558,12,45.19,22.49,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+51,3632,3644,12,53.99,19.08,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+52,3852,3864,12,45.01,24.2,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+53,3862,3874,12,41.07,19.65,Vaananen Mia,McGill Martlets,Shots on goal,3
+54,3987,3999,12,45.74,6.26,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,3
+55,4087,4099,12,49.41,8.54,Downie-Landry Jade,McGill Martlets,Shots on goal,3
+56,4189,4201,12,42.17,20.69,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,3
+57,4254,4266,12,52.71,14.62,Piers Emma,McGill Martlets,Shots on goal,3
+58,4371,4383,12,47.3,11.1,Labrecque Marika,McGill Martlets,Shots on goal,3
+59,4486,4498,12,55.28,15.09,Piers Emma,McGill Martlets,Shots on goal,3
+60,4530,4542,12,50.14,8.35,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,3
+61,4548,4560,12,52.98,15.09,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+62,4568,4580,12,48.86,20.97,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+63,4593,4605,12,52.34,2.66,Colizza Chrissy,McGill Martlets,Shots on goal,3
+64,4597,4609,12,51.06,15.19,Colizza Chrissy,McGill Martlets,Shots on goal,3
+65,4612,4624,12,52.16,13.76,Jardin Laura,McGill Martlets,Shots on goal,3
+66,4764,4776,12,41.43,11.96,Rankin Katie,McGill Martlets,Shots on goal,3
+67,5185,5197,12,52.43,9.3,Dube Marie-Pier,Carabins Universite de Montreal,Shots on goal,4
+68,5198,5210,12,48.4,20.78,Downie-Landry Jade,McGill Martlets,Shots on goal,4
+69,5247,5259,12,41.53,11.2,MacLellan Lydia,McGill Martlets,Shots on goal,4
+70,5266,5278,12,53.08,12.24,Gervais Audrey,Carabins Universite de Montreal,Goals,4
+71,5266,5278,12,53.08,12.24,Gervais Audrey,Carabins Universite de Montreal,Shots on goal,4
+72,5322,5334,12,48.86,18.79,Downie-Landry Jade,McGill Martlets,Goals,4
+73,5322,5334,12,48.86,18.79,Downie-Landry Jade,McGill Martlets,Shots on goal,4
+74,5474,5486,12,54.18,14.24,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,5
+75,5597,5609,12,51.43,9.87,Gervais Audrey,Carabins Universite de Montreal,Shots on goal,5
+76,5900,5912,12,54.91,14.33,Paquin Emilie-Renee,Carabins Universite de Montreal,Goals,255

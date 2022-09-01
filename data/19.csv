@@ -1,0 +1,64 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,34,46,12,41.16,10.25,Faubert Annabel,Carabins Universite de Montreal,Shots on goal,1
+2,103,115,12,40.61,9.78,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,1
+3,155,167,12,53.63,13,Dumont Camille,Carabins Universite de Montreal,Goals,1
+4,155,167,12,53.63,13,Dumont Camille,Carabins Universite de Montreal,Shots on goal,1
+5,266,278,12,43.63,4.08,Hunter Nicole,Carleton Ravens,Shots on goal,1
+6,674,686,12,49.13,14.05,Berta Sydney,Carleton Ravens,Shots on goal,1
+7,738,750,12,48.13,22.21,Guimond Lanie,Carleton Ravens,Shots on goal,1
+8,815,827,12,42.99,6.83,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,1
+9,884,896,12,55.37,15.38,Gervais Audrey,Carabins Universite de Montreal,Shots on goal,1
+10,945,957,12,53.44,11.39,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,1
+11,1175,1187,12,54.73,10.53,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,1
+12,1270,1282,12,54.73,15,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,1
+13,1435,1447,12,47.94,15.47,Garand Joannie,Carabins Universite de Montreal,Shots on goal,1
+14,1535,1547,12,50.97,9.11,Garand Joannie,Carabins Universite de Montreal,Shots on goal,1
+15,1609,1621,12,49.5,7.78,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,1
+16,1636,1648,12,42.53,17.46,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,1
+17,1713,1725,12,54.91,6.83,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,2
+18,1991,2003,12,44.92,17.37,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+19,2005,2017,12,48.31,23.73,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,2
+20,2007,2019,12,53.81,16.13,Boulanger Jessika,Carabins Universite de Montreal,Shots on goal,2
+21,2080,2092,12,54.73,14.24,Dumont Camille,Carabins Universite de Montreal,Shots on goal,2
+22,2255,2267,12,44.73,10.53,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,2
+23,2261,2273,12,49.5,6.74,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,2
+24,2292,2304,12,48.22,21.64,Gervais Audrey,Carabins Universite de Montreal,Goals,2
+25,2292,2304,12,48.22,21.64,Gervais Audrey,Carabins Universite de Montreal,Shots on goal,2
+26,2567,2579,12,49.23,8.64,Smythe Emily,Carleton Ravens,Shots on goal,2
+27,2720,2732,12,51.98,10.25,Garand Joannie,Carabins Universite de Montreal,Shots on goal,2
+28,2743,2755,12,51.24,23.73,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,2
+29,2755,2767,12,54.45,13.38,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,2
+30,2757,2769,12,53.08,11.77,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,2
+31,2879,2891,12,53.08,6.93,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,2
+32,2911,2923,12,54.54,20.12,Paquin Emilie-Renee,Carabins Universite de Montreal,Shots on goal,2
+33,2942,2954,12,46.84,11.86,Morais Jenna,Carleton Ravens,Shots on goal,2
+34,3097,3109,12,48.58,7.69,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,2
+35,3132,3144,12,53.72,14.62,Quennec Kaleigh,Carabins Universite de Montreal,Shots on goal,2
+36,3214,3226,12,48.13,18.03,Poire-Lehoux Amelie,Carabins Universite de Montreal,Shots on goal,3
+37,3237,3249,12,54.73,11.58,Pouliot Raphaеlle,Carabins Universite de Montreal,Goals,3
+38,3237,3249,12,54.73,11.58,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,3
+39,3276,3288,12,49.68,11.67,Pouliot Raphaеlle,Carabins Universite de Montreal,Shots on goal,3
+40,3307,3319,12,48.68,2.66,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,3
+41,3420,3432,12,54.63,14.33,Garand Joannie,Carabins Universite de Montreal,Shots on goal,3
+42,3471,3483,12,51.61,12.72,Dumont Camille,Carabins Universite de Montreal,Shots on goal,3
+43,3658,3670,12,41.25,18.6,Gervais Audrey,Carabins Universite de Montreal,Shots on goal,3
+44,3726,3738,12,55.55,18.6,Gagnon Leyla,Carabins Universite de Montreal,Shots on goal,3
+45,3773,3785,12,53.44,14.9,Gagnon Leyla,Carabins Universite de Montreal,Shots on goal,3
+46,3867,3879,12,54.82,11.29,Garand Joannie,Carabins Universite de Montreal,Shots on goal,3
+47,3942,3954,12,54.45,10.72,Serniuk Hayden,Carleton Ravens,Shots on goal,3
+48,3953,3965,12,48.95,5.88,MacNeil Nicole,Carleton Ravens,Shots on goal,3
+49,3967,3979,12,45.74,3.61,MacNeil Nicole,Carleton Ravens,Shots on goal,3
+50,4034,4046,12,51.61,9.02,Veillette Audrey-Anne,Carabins Universite de Montreal,Goals,3
+51,4034,4046,12,51.61,9.02,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+52,4119,4131,12,41.16,8.64,Hunter Nicole,Carleton Ravens,Shots on goal,3
+53,4220,4232,12,53.53,12.05,Pelletier Justine,Carabins Universite de Montreal,Shots on goal,3
+54,4261,4273,12,47.94,4.56,Nadeau Kelly-Ann,Carabins Universite de Montreal,Shots on goal,3
+55,4280,4292,12,48.95,16.42,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+56,4289,4301,12,51.79,19.08,Lavallee Audrey,Carabins Universite de Montreal,Shots on goal,3
+57,4368,4380,12,41.43,3.8,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3
+58,4595,4607,12,52.62,13.1,Veillette Audrey-Anne,Carabins Universite de Montreal,Goals,3
+59,4595,4607,12,52.62,13.1,Veillette Audrey-Anne,Carabins Universite de Montreal,Shots on goal,3
+60,4670,4682,12,56.38,9.59,Dondo Breanne,Carabins Universite de Montreal,Shots on goal,3
+61,4675,4687,12,57.11,11.01,Dondo Breanne,Carabins Universite de Montreal,Shots on goal,3
+62,4842,4854,12,53.72,13.1,Berta Sydney,Carleton Ravens,Goals,3
+63,4842,4854,12,53.72,13.1,Berta Sydney,Carleton Ravens,Shots on goal,3

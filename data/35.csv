@@ -1,0 +1,74 @@
+ID,start,end,duration,pos_x,pos_y,player,team,action,half
+1,5,17,12,53.72,12.81,Guimond Lanie,Carleton Ravens,Shots on goal,1
+2,103,115,12,55.55,11.39,Lalancette Stephanie,Concordia Stingers,Shots on goal,1
+3,251,263,12,55,11.96,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+4,281,293,12,46.93,18.89,Begin-Cyr Rosalie,Concordia Stingers,Goals,1
+5,281,293,12,46.93,18.89,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+6,328,340,12,53.08,12.81,Lalancette Stephanie,Concordia Stingers,Shots on goal,1
+7,364,376,12,49.5,9.21,Belzile Audrey,Concordia Stingers,Shots on goal,1
+8,423,435,12,46.29,6.45,Laganiere Brigitte,Concordia Stingers,Shots on goal,1
+9,473,485,12,44.37,17.18,Hale Olivia,Concordia Stingers,Shots on goal,1
+10,650,662,12,12.74,7.02,Lavoie Emilie,Concordia Stingers,Shots on goal,1
+11,698,710,12,41.89,7.02,Laganiere Brigitte,Concordia Stingers,Shots on goal,1
+12,758,770,12,53.72,9.97,Drapeau Jessymaude,Concordia Stingers,Shots on goal,1
+13,911,923,12,52.16,7.5,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,1
+14,928,940,12,46.29,6.07,Belzile Audrey,Concordia Stingers,Shots on goal,1
+15,971,983,12,54.18,13.48,Thibault Zoe,Concordia Stingers,Shots on goal,1
+16,976,988,12,55.28,13.95,Gendreau Chloe,Concordia Stingers,Shots on goal,1
+17,1069,1081,12,54.27,4.94,Manarolis Maria,Concordia Stingers,Shots on goal,1
+18,1145,1157,12,52.25,9.3,Lavoie Emilie,Concordia Stingers,Shots on goal,1
+19,1377,1389,12,54.73,12.15,Belzile Audrey,Concordia Stingers,Goals,1
+20,1377,1389,12,54.73,12.15,Belzile Audrey,Concordia Stingers,Shots on goal,1
+21,1457,1469,12,47.76,4.56,Lalancette Stephanie,Concordia Stingers,Shots on goal,1
+22,1504,1516,12,46.38,7.59,Laganiere Brigitte,Concordia Stingers,Goals,1
+23,1504,1516,12,46.38,7.59,Laganiere Brigitte,Concordia Stingers,Shots on goal,1
+24,1733,1745,12,53.17,14.9,Gendreau Chloe,Concordia Stingers,Shots on goal,2
+25,1933,1945,12,53.63,12.34,Lalancette Stephanie,Concordia Stingers,Shots on goal,2
+26,2014,2026,12,51.88,14.52,Smythe Emily,Carleton Ravens,Shots on goal,2
+27,2022,2034,12,55.18,12.24,Morais Jenna,Carleton Ravens,Goals,2
+28,2022,2034,12,55.18,12.24,Morais Jenna,Carleton Ravens,Shots on goal,2
+29,2145,2157,12,52.89,20.41,Grosso Jackie,Carleton Ravens,Shots on goal,2
+30,2180,2192,12,53.9,13.95,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+31,2181,2193,12,56.01,14.71,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,2
+32,2247,2259,12,46.02,17.08,Calderone Alexandra,Concordia Stingers,Shots on goal,2
+33,2326,2338,12,57.11,16.42,Thibault Zoe,Concordia Stingers,Shots on goal,2
+34,2495,2507,12,48.49,13.57,Guimond Lanie,Carleton Ravens,Shots on goal,2
+35,2583,2595,12,48.86,10.63,Lalancette Stephanie,Concordia Stingers,Shots on goal,2
+36,2633,2645,12,51.88,11.58,Belzile Audrey,Concordia Stingers,Goals,2
+37,2633,2645,12,51.88,11.58,Belzile Audrey,Concordia Stingers,Shots on goal,2
+38,2701,2713,12,49.04,10.72,Thibault Zoe,Concordia Stingers,Shots on goal,2
+39,2734,2746,12,50.23,14.14,Rodrigue Audrey-Ann,Concordia Stingers,Shots on goal,2
+40,2930,2942,12,55.64,12.72,Drapeau Jessymaude,Concordia Stingers,Shots on goal,2
+41,3012,3024,12,54.18,11.1,Manarolis Maria,Concordia Stingers,Shots on goal,2
+42,3055,3067,12,45.56,20.31,Hunter Nicole,Carleton Ravens,Shots on goal,2
+43,3077,3089,12,41.43,18.89,Hunter Nicole,Carleton Ravens,Shots on goal,2
+44,3152,3164,12,50.97,20.12,Smythe Emily,Carleton Ravens,Shots on goal,2
+45,3189,3201,12,47.76,16.13,MacNeil Nicole,Carleton Ravens,Shots on goal,3
+46,3263,3275,12,46.66,20.88,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,3
+47,3294,3306,12,46.93,5.79,Lemelin Stephanie,Concordia Stingers,Shots on goal,3
+48,3321,3333,12,53.35,18.79,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,3
+49,3322,3334,12,55.28,14.14,Belzile Audrey,Concordia Stingers,Shots on goal,3
+50,3414,3426,12,49.32,5.79,Gendreau Chloe,Concordia Stingers,Shots on goal,3
+51,3498,3510,12,54.82,14.14,Julien Ariane,Concordia Stingers,Shots on goal,3
+52,3541,3553,12,43.91,12.34,Morais Jenna,Carleton Ravens,Shots on goal,3
+53,3657,3669,12,48.49,18.98,Bernier Marie-Pascale,Concordia Stingers,Shots on goal,3
+54,3760,3772,12,55.46,11.2,Lavoie Emilie,Concordia Stingers,Goals,3
+55,3760,3772,12,55.46,11.2,Lavoie Emilie,Concordia Stingers,Shots on goal,3
+56,3808,3820,12,42.99,3.61,Hunter Nicole,Carleton Ravens,Shots on goal,3
+57,4162,4174,12,55.09,11.58,Belzile Audrey,Concordia Stingers,Goals,3
+58,4162,4174,12,55.09,11.58,Belzile Audrey,Concordia Stingers,Shots on goal,3
+59,4221,4233,12,54.54,12.34,Unis-Thibault Hanna,Carleton Ravens,Shots on goal,3
+60,4247,4259,12,50.88,8.83,Lavoie Emilie,Concordia Stingers,Goals,3
+61,4247,4259,12,50.88,8.83,Lavoie Emilie,Concordia Stingers,Shots on goal,3
+62,4304,4316,12,45.93,9.3,Julien Ariane,Concordia Stingers,Shots on goal,3
+63,4393,4405,12,42.72,12.91,Boulanger Alexandra,Concordia Stingers,Shots on goal,3
+64,4434,4446,12,55.09,11.77,Boulanger Alexandra,Concordia Stingers,Shots on goal,3
+65,4625,4637,12,48.4,19.08,Belzile Audrey,Concordia Stingers,Shots on goal,3
+66,4626,4638,12,47.03,19.17,Belzile Audrey,Concordia Stingers,Goals,3
+67,4626,4638,12,47.03,19.17,Belzile Audrey,Concordia Stingers,Shots on goal,3
+68,4688,4700,12,55.18,12.62,Berta Sydney,Carleton Ravens,Shots on goal,3
+69,4767,4779,12,40.33,10.16,Laganiere Brigitte,Concordia Stingers,Shots on goal,3
+70,4866,4878,12,56.74,14.71,Bernier Marie-Pascale,Concordia Stingers,Shots on goal,3
+71,4953,4965,12,48.95,9.78,Manarolis Maria,Concordia Stingers,Shots on goal,3
+72,4983,4995,12,51.79,5.03,Begin-Cyr Rosalie,Concordia Stingers,Shots on goal,3
+73,5032,5044,12,41.89,3.8,Julien Ariane,Concordia Stingers,Shots on goal,3
